@@ -1,0 +1,1 @@
+Utilisez la zone de texte pour définir l'identifiant du input, puis cliquez sur <b>OK</b> pour l'afficher dans a partie gauche de la page ou sur <b>Annuler</b> pour annuler l'insertion du input.
